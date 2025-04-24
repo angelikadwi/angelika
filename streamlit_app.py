@@ -4,4 +4,4 @@ st.title("tralala")
 st.write(
     "Love X-D."
 )
-st. image("view/450d080f-b15d-4a3f-afa0-10ca7d0552d8.jpeg")
+st.image("view/450d080f-b15d-4a3f-afa0-10ca7d0552d8.jpeg")
